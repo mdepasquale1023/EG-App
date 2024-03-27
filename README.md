@@ -28,16 +28,17 @@ The data has been transformed in Python to calculate additional metrics in order
 
 ## Summary Statistics:
 
-Average Monthly Figures:
-Downloads: ~89.5
-Launches: ~1670.4
-Impressions: ~9641.5
-Trend Analysis (Month-over-Month Change):
-Downloads: Decreased by an average of ~1.98%
-Launches: Decreased by an average of ~0.84%
-Impressions: Decreased by an average of ~2.37%
-Conversion Rates:
-Impressions to Downloads: On average, ~0.98% of impressions convert to downloads.
+- Average Monthly Figures:
+- Downloads: ~89.5
+- Launches: ~1670.4
+- Impressions: ~9641.5
+- Trend Analysis (Month-over-Month Change):
+	- Downloads: Decreased by an average of ~1.98%
+	- Launches: Decreased by an average of ~0.84%
+	- Impressions: Decreased by an average of ~2.37%
+	- Conversion Rates:
+
+- Impressions to Downloads: On average, ~0.98% of impressions convert to downloads.
 Downloads to Launches: On average, each download leads to approximately 1932.8 launches. This high number suggests users are very engaged with the app, or it might indicate a data inconsistency, especially if it's unrealistic for each download to result in that many launches.
 
 This overview provides a snapshot of the app's performance, showing a slight downward trend in downloads, launches, and impressions over the months. The conversion rates highlight areas of strength and potential improvement, particularly in turning impressions into downloads.
@@ -49,14 +50,16 @@ The data shows that the app has an average of about 89.5 downloads per month. Th
 ## User Engagement:
 
 On average, there are about 5.57 page views per launch. This metric suggests that once users open the app, they don't just look at one page and leave; they browse through about 5 to 6 pages each time. This level of engagement is a positive sign that users find the app's content compelling and valuable, prompting them to explore more than just the landing page or the initial screen they encounter.
+
 Month-Over-Month Changes:
 While the average figures provide a snapshot, the month-over-month changes reveal the dynamics over time. For example, if you notice a particular month where downloads spiked or dropped significantly, it could indicate the impact of marketing campaigns, seasonality, or changes in user preferences. Similarly, fluctuations in launches and page views can help identify when users became more or less active and what content or features might be influencing these changes. These trends are crucial for understanding not just the static picture but how the app's usage evolves over time.
+
 Why is the average page views per launch trending downward?
 There is a trend where, on average, users are viewing fewer pages each time they launch the app. This might indicate a shift in how our users are engaging with the app.
 
 ## Possible Implications: 
 
-This could suggest that users are finding what they need more quickly, which isn't necessarily negative. However, it might also mean that they are less engaged with the content, which is an area that should be investigated..
+This could suggest that users are finding what they need more quickly, which isn't necessarily negative. However, it might also mean that they are less engaged with the content, which is an area that should be investigated.
 To better understand this trend, we can look into more detailed user behavior analytics, gather user feedback, and possibly identify specific areas or content within the app that aren't meeting user expectations. Understanding the 'why' behind this trend is crucial for us to make targeted improvements.
 Based on our findings, we can develop strategies to enhance user engagement, whether it's through updating existing content, adding new features, or improving app usability.
 
