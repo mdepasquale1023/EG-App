@@ -12,7 +12,7 @@
 
 3. Impressions (Page Views): Impressions are defined as the number of times users access individual pages within the app. This is a bit unique compared to the more common definition of impressions, which often refers to views of an advertisement or listing. Here, impressions give insight into how users interact with the app's content. High page views suggest that users are actively exploring the app, which is indicative of strong user engagement and interest in the content offered.
 
-K## ey Performance Metrics:
+## Key Performance Metrics:
 
 The data has been transformed in Python to calculate additional metrics in order to gauge the effectiveness of the app.
 
