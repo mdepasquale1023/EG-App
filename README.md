@@ -1,4 +1,5 @@
 # EG-App
+*refer to the report for charts and graphs*
 
 ## Data Origin:
 
